@@ -4,7 +4,7 @@ A FastAPI-based service that provides association rules mining capabilities for 
 
 ## Overview
 
-This project implements a REST API that leverages the Apriori algorithm to mine frequent itemsets and generate association rules from transaction data. It identifies valuable purchase patterns such as "customers who bought X also bought Y." The API functions as a dedicated microservice for a restaurant application, providing an insights portal that helps restaurant owners analyze performance metrics and discover their most popular menu item combinations.
+This project implements a REST API that leverages the Apriori algorithm to mine frequent itemsets and generate association rules from transaction data. It identifies valuable purchase patterns such as <span style="color: orange;">"customers who bought X also bought Y."</span> The API functions as a dedicated microservice for a restaurant application, providing an insights portal that helps restaurant owners analyze performance metrics and discover their most popular menu item combinations.
 
 ## Features
 
