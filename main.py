@@ -10,4 +10,3 @@ def read_root():
 def read_most_frequent_items():
     return {'most': utils.get_frequent_items()}
 
-
